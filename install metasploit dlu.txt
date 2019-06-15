@@ -1,7 +1,0 @@
-
-Install metasploit
-$pkg install root-repo
-$pkg install unstable-repo
-$pkg install x11-repo
-$pkg install metasploit
-$pkg install pv
